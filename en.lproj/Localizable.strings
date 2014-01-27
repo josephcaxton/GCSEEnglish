@@ -1,0 +1,11 @@
+/* 
+   Localizable.strings
+   Evaluator
+
+   Created by Joseph caxton-Idowu on 16/09/2010.
+   Copyright 2010 caxtonidowu. All rights reserved.
+ */
+"SimpleQuestions" = "Simple Questions";
+"NormalQuestions" = "Normal Questions";
+"DifficultQuestions" = "Difficult Questions";
+"CustomSlider" = "Custom";
