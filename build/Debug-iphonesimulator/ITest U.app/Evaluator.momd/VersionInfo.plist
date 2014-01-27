@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Evaluator</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Evaluator</key>
+		<dict>
+			<key>Answers</key>
+			<data>
+			kKCC2BtmT86yIhibuXF6EYBF9JpgVTeUpwFaAMoUJBo=
+			</data>
+			<key>DBVersion</key>
+			<data>
+			nUU2dezSO+IMQfaY9M24Rg3KD2rJAWch8u21+PD7GQY=
+			</data>
+			<key>QuestionHeader</key>
+			<data>
+			hl1RficZOlsm0HhWOPv3RgzW2vRJiBq7++ZmWTuhNrY=
+			</data>
+			<key>QuestionItems</key>
+			<data>
+			CA6vUPHUMqZ+Hr025h051r1u/fr4Bh+G54RsMdCu/1w=
+			</data>
+			<key>Topics</key>
+			<data>
+			ABxJ3B7ovXTl7aycEY61ICQUV/QeclrB3lbB9cHPXjg=
+			</data>
+			<key>lk_QuestionTemplate</key>
+			<data>
+			jcITv5gWWmkrsZda16Ons9PnrJmSv3lWlfUc+hNXgB0=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
