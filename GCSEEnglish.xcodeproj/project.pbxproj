@@ -1142,6 +1142,7 @@
 		7CF582F8137029740077602B /* FillTheBlanks1.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF582F6137029740077602B /* FillTheBlanks1.m */; };
 		7CF583001370299B0077602B /* Uploads.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF582FF1370299B0077602B /* Uploads.m */; };
 		7CFA42FF1820503300ECA59F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CFA42FE1820503300ECA59F /* Images.xcassets */; };
+		CD81ED7318A8446000FC551E /* NumberOfQuestionsToChoose.m in Sources */ = {isa = PBXBuildFile; fileRef = CD81ED7218A8446000FC551E /* NumberOfQuestionsToChoose.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -2444,6 +2445,8 @@
 		7CF582FF1370299B0077602B /* Uploads.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Uploads.m; sourceTree = "<group>"; };
 		7CFA42FE1820503300ECA59F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GCSEEnglish/Images.xcassets; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* GCSEEnglish-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GCSEEnglish-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CD81ED7118A8446000FC551E /* NumberOfQuestionsToChoose.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberOfQuestionsToChoose.h; sourceTree = "<group>"; };
+		CD81ED7218A8446000FC551E /* NumberOfQuestionsToChoose.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberOfQuestionsToChoose.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -3912,6 +3915,8 @@
 				7CF582F4137029740077602B /* FillTheBlanks.m */,
 				7CF582F5137029740077602B /* FillTheBlanks1.h */,
 				7CF582F6137029740077602B /* FillTheBlanks1.m */,
+				CD81ED7118A8446000FC551E /* NumberOfQuestionsToChoose.h */,
+				CD81ED7218A8446000FC551E /* NumberOfQuestionsToChoose.m */,
 			);
 			name = "Template Views";
 			sourceTree = "<group>";
@@ -5110,6 +5115,7 @@
 				7CF582E6137029360077602B /* MultipleChoiceSingleAnswer1.m in Sources */,
 				7CF582EB1370294B0077602B /* DescriptiveType.m in Sources */,
 				7CF582EC1370294B0077602B /* DescriptiveType1.m in Sources */,
+				CD81ED7318A8446000FC551E /* NumberOfQuestionsToChoose.m in Sources */,
 				7CF582F11370295F0077602B /* TrueOrFalseYesOrNo.m in Sources */,
 				7CF582F21370295F0077602B /* TrueOrFalseYesOrNo1.m in Sources */,
 				7CF582F7137029740077602B /* FillTheBlanks.m in Sources */,
