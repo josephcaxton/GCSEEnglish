@@ -666,7 +666,6 @@
 		7C21DBAA13DAF0CC0050D01A /* 634.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C413DAF0CA0050D01A /* 634.pdf */; };
 		7C21DBAB13DAF0CC0050D01A /* 635.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C513DAF0CA0050D01A /* 635.pdf */; };
 		7C21DBAC13DAF0CC0050D01A /* 636.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C613DAF0CA0050D01A /* 636.pdf */; };
-		7C21DBAD13DAF0CC0050D01A /* 637.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C713DAF0CA0050D01A /* 637.pdf */; };
 		7C21DBAE13DAF0CC0050D01A /* 638.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C813DAF0CA0050D01A /* 638.pdf */; };
 		7C21DBAF13DAF0CC0050D01A /* 639.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7C913DAF0CA0050D01A /* 639.pdf */; };
 		7C21DBB013DAF0CC0050D01A /* 640.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D7CA13DAF0CA0050D01A /* 640.pdf */; };
@@ -1017,7 +1016,6 @@
 		7C21DD1613DAF0CC0050D01A /* 998.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21D93013DAF0CB0050D01A /* 998.pdf */; };
 		7C29664C1797ED2200F58C25 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2966491797ECD800F58C25 /* MBProgressHUD.m */; };
 		7C29664D1797ED3700F58C25 /* LocalReporting.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C29664B1797ECFE00F58C25 /* LocalReporting.m */; };
-		7C29664F1797ED8A00F58C25 /* GCSEEnglish.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 7C29664E1797ED6C00F58C25 /* GCSEEnglish.sqlite */; };
 		7C2966D21797F19800F58C25 /* libCorePlot-CocoaTouch.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C2966821797F13A00F58C25 /* libCorePlot-CocoaTouch.a */; };
 		7C2966D41797F1CA00F58C25 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C2966D31797F1CA00F58C25 /* QuartzCore.framework */; };
 		7C2966D61797F21600F58C25 /* PlotConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2966841797F13A00F58C25 /* PlotConstants.m */; };
@@ -1142,6 +1140,7 @@
 		7CF582F8137029740077602B /* FillTheBlanks1.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF582F6137029740077602B /* FillTheBlanks1.m */; };
 		7CF583001370299B0077602B /* Uploads.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF582FF1370299B0077602B /* Uploads.m */; };
 		7CFA42FF1820503300ECA59F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CFA42FE1820503300ECA59F /* Images.xcassets */; };
+		CD421F5219277D2500EBC95C /* GCSEEnglish.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = CD421F5119277D1200EBC95C /* GCSEEnglish.sqlite */; };
 		CD81ED7318A8446000FC551E /* NumberOfQuestionsToChoose.m in Sources */ = {isa = PBXBuildFile; fileRef = CD81ED7218A8446000FC551E /* NumberOfQuestionsToChoose.m */; };
 /* End PBXBuildFile section */
 
@@ -1843,7 +1842,6 @@
 		7C21D7C413DAF0CA0050D01A /* 634.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 634.pdf; sourceTree = "<group>"; };
 		7C21D7C513DAF0CA0050D01A /* 635.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 635.pdf; sourceTree = "<group>"; };
 		7C21D7C613DAF0CA0050D01A /* 636.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 636.pdf; sourceTree = "<group>"; };
-		7C21D7C713DAF0CA0050D01A /* 637.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 637.pdf; sourceTree = "<group>"; };
 		7C21D7C813DAF0CA0050D01A /* 638.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 638.pdf; sourceTree = "<group>"; };
 		7C21D7C913DAF0CA0050D01A /* 639.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 639.pdf; sourceTree = "<group>"; };
 		7C21D7CA13DAF0CA0050D01A /* 640.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 640.pdf; sourceTree = "<group>"; };
@@ -2196,7 +2194,6 @@
 		7C2966491797ECD800F58C25 /* MBProgressHUD.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 		7C29664A1797ECFE00F58C25 /* LocalReporting.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalReporting.h; sourceTree = "<group>"; };
 		7C29664B1797ECFE00F58C25 /* LocalReporting.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalReporting.m; sourceTree = "<group>"; };
-		7C29664E1797ED6C00F58C25 /* GCSEEnglish.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = GCSEEnglish.sqlite; sourceTree = "<group>"; };
 		7C2966821797F13A00F58C25 /* libCorePlot-CocoaTouch.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libCorePlot-CocoaTouch.a"; sourceTree = "<group>"; };
 		7C2966831797F13A00F58C25 /* PlotConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlotConstants.h; sourceTree = "<group>"; };
 		7C2966841797F13A00F58C25 /* PlotConstants.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlotConstants.m; sourceTree = "<group>"; };
@@ -2445,6 +2442,7 @@
 		7CF582FF1370299B0077602B /* Uploads.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Uploads.m; sourceTree = "<group>"; };
 		7CFA42FE1820503300ECA59F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GCSEEnglish/Images.xcassets; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* GCSEEnglish-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GCSEEnglish-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CD421F5119277D1200EBC95C /* GCSEEnglish.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = GCSEEnglish.sqlite; sourceTree = "<group>"; };
 		CD81ED7118A8446000FC551E /* NumberOfQuestionsToChoose.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberOfQuestionsToChoose.h; sourceTree = "<group>"; };
 		CD81ED7218A8446000FC551E /* NumberOfQuestionsToChoose.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberOfQuestionsToChoose.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -3455,7 +3453,6 @@
 				7C21D7C413DAF0CA0050D01A /* 634.pdf */,
 				7C21D7C513DAF0CA0050D01A /* 635.pdf */,
 				7C21D7C613DAF0CA0050D01A /* 636.pdf */,
-				7C21D7C713DAF0CA0050D01A /* 637.pdf */,
 				7C21D7C813DAF0CA0050D01A /* 638.pdf */,
 				7C21D7C913DAF0CA0050D01A /* 639.pdf */,
 				7C21D7CA13DAF0CA0050D01A /* 640.pdf */,
@@ -3866,7 +3863,7 @@
 				7CB8076813E1A1CD00173AB5 /* 1045.pdf */,
 				7CB8076913E1A1CD00173AB5 /* 1046.pdf */,
 				7CB8076A13E1A1CD00173AB5 /* 1047.pdf */,
-				7C29664E1797ED6C00F58C25 /* GCSEEnglish.sqlite */,
+				CD421F5119277D1200EBC95C /* GCSEEnglish.sqlite */,
 				7CF5820D13700FAD0077602B /* AttributionIphone.pdf */,
 				7CF5820113700ED70077602B /* Results.xml */,
 				7CF5820B13700F8B0077602B /* DescriptiveAnswers.xml */,
@@ -3993,7 +3990,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7C29664F1797ED8A00F58C25 /* GCSEEnglish.sqlite in Resources */,
+				CD421F5219277D2500EBC95C /* GCSEEnglish.sqlite in Resources */,
 				7CF07A73136FFF3800260DE3 /* MainWindow.xib in Resources */,
 				7CF5820213700ED70077602B /* Results.xml in Resources */,
 				7CF5820C13700F8B0077602B /* DescriptiveAnswers.xml in Resources */,
@@ -4644,7 +4641,6 @@
 				7C21DBAA13DAF0CC0050D01A /* 634.pdf in Resources */,
 				7C21DBAB13DAF0CC0050D01A /* 635.pdf in Resources */,
 				7C21DBAC13DAF0CC0050D01A /* 636.pdf in Resources */,
-				7C21DBAD13DAF0CC0050D01A /* 637.pdf in Resources */,
 				7C21DBAE13DAF0CC0050D01A /* 638.pdf in Resources */,
 				7C21DBAF13DAF0CC0050D01A /* 639.pdf in Resources */,
 				7C21DBB013DAF0CC0050D01A /* 640.pdf in Resources */,
@@ -5155,9 +5151,9 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Joseph caxton (99S98QLWW3)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: Joseph caxton (99S98QLWW3)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Joseph caxton (99S98QLWW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5177,7 +5173,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = GCSE;
-				PROVISIONING_PROFILE = "B4A60EF6-0B35-4ADE-B09F-936DE440F82F";
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=*]" = "B4A60EF6-0B35-4ADE-B09F-936DE440F82F";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B4A60EF6-0B35-4ADE-B09F-936DE440F82F";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -5193,8 +5189,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Theta Computer Services Limited (9RNCM436XC)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Theta Computer Services Limited (9RNCM436XC)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5212,7 +5208,7 @@
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = GCSE;
-				PROVISIONING_PROFILE = "DA65C439-45B5-47A2-A057-9CB271A8183A";
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DA65C439-45B5-47A2-A057-9CB271A8183A";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
